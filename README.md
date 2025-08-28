@@ -6,12 +6,12 @@ A rideshare simulation built in C++ featuring real-time driver–customer coordi
 - Distance-based priority matching algorithm  
 - Optimized matching logic (3x faster) with streamlined bug fixes  
 - Object-oriented design with reusable classes
-- 
+  
 ## Tech Stack
 - **Language:** C++  
 - **Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms  
 - **Tools:** g++, Makefile
-- 
+  
 ## Project Highlights
 - Improved ride matching efficiency by 3x through algorithm optimization  
 - Applied OOP principles for modular, maintainable code  
