@@ -22,3 +22,12 @@ A rideshare simulation built in C++ featuring real-time driver–customer coordi
 ```bash
 git clone https://github.com/YOURUSERNAME/Rideshare-APP.git
 cd Rideshare-APP
+
+Compiling the program:
+
+g++ main.cc -o rideshare
+
+Running the program:
+
+./rideshare
+
